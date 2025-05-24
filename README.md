@@ -1,23 +1,42 @@
+
 # Johann Tellez
 
-Hello! 👋  
-I'm Johann, a Software Development student at BYU–Idaho with a passion for full-stack development and solving real-world problems with code.
+Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho, currently learning how to build real-world solutions with code.
 
-## About Me
+## 🚀 About Me
 
-- 📚 Currently learning Node.js, PostgreSQL, and Express
-- 🔍 Interested in backend development, REST APIs, and authentication systems
-- 🧠 Always building and learning through real projects and team collaboration
+- 🎓 I'm studying Software Development at BYU–Idaho (Expected graduation: 2027)
+- 🔧 I enjoy backend development, APIs, authentication systems, and database design
+- 🌐 I’m currently working with: JavaScript, Node.js, C#, MySQL, HTML, CSS
+- 📚 I'm learning more about Express.js, OAuth, and PostgreSQL
+- 🤝 I'm actively seeking internship or freelance opportunities in backend development
 
-## Technologies & Tools
+## 💻 Languages & Technologies
 
-- Languages: JavaScript, Python, C#, HTML, CSS, MySQL
-- Frameworks/Tools: Node.js, Express, MongoDB, Git, Swagger, OAuth
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+</div>
 
-## Let's Connect!
+## 📂 Featured Projects
+
+- **[PixelGrid](https://github.com/johanntellez/pixelgrid)** – A customizable pixel map inspired by the Million Dollar Homepage (HTML/CSS/JS)
+- **[Vehicle Inventory System](https://github.com/johanntellez/inventory-system)** – A full CRUD web app for managing vehicle data (Node.js + EJS + PostgreSQL)
+- **[AuthHub](https://github.com/johanntellez/authhub)** – Secure login system with OAuth2, JWT, and role-based access (Express, MongoDB)
+
+## 📊 GitHub Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanntellez&layout=compact&theme=default)
+
+## 🤝 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/johann-tellez-509723233)
-<!---
-jhtr0226/jhtr0226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 johanntellez2001@gmail.com
+
