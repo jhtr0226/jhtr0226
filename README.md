@@ -38,5 +38,5 @@ Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho
 ## 🤝 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/johann-tellez-509723233)
-- 📧 johanntellez2001@gmail.com
+- johanntellez2001@gmail.com
 
