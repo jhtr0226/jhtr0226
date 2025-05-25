@@ -27,7 +27,10 @@ Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho
 
 ## 📂 Featured Projects
 
-- **[PixelGrid](https://github.com/johanntellez/pixelgrid)** – A customizable pixel map inspired by the Million Dollar Homepage (HTML/CSS/JS)
+### 🍽️ [Food Finder](https://jhtr0226.github.io/wdd330/food-finder/index.html)  
+A responsive web application that helps users discover food options based on keywords and preferences.  
+**Technologies:** HTML, CSS, JavaScript  
+**Highlights:** Built using vanilla JS and REST APIs. Features include dynamic search filtering, live API integration, and a mobile-first design.
 - **[Vehicle Inventory System](https://github.com/johanntellez/inventory-system)** – A full CRUD web app for managing vehicle data (Node.js + EJS + PostgreSQL)
 - **[AuthHub](https://github.com/johanntellez/authhub)** – Secure login system with OAuth2, JWT, and role-based access (Express, MongoDB)
 
