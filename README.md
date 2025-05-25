@@ -27,10 +27,7 @@ Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho
 
 ## 📂 Featured Projects
 
-### 🍽️ [Food Finder](https://jhtr0226.github.io/wdd330/food-finder/index.html)  
-A responsive web application that helps users discover food options based on keywords and preferences.  
-**Technologies:** HTML, CSS, JavaScript  
-**Highlights:** Built using vanilla JS and REST APIs. Features include dynamic search filtering, live API integration, and a mobile-first design.
+- **🍽️ [Food Finder](https://jhtr0226.github.io/wdd330/food-finder/index.html)** – A responsive web app that helps users find food options using search and filtering. *(HTML, CSS, JavaScript)*
 - **[Vehicle Inventory System](https://github.com/johanntellez/inventory-system)** – A full CRUD web app for managing vehicle data (Node.js + EJS + PostgreSQL)
 - **[AuthHub](https://github.com/johanntellez/authhub)** – Secure login system with OAuth2, JWT, and role-based access (Express, MongoDB)
 
