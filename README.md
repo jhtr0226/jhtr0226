@@ -27,8 +27,6 @@ Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
-
 - **🍽️ [Food Finder](https://jhtr0226.github.io/wdd330/food-finder/index.html)** – A responsive web app that helps users find food options using search and filtering. *(HTML, CSS, JavaScript)*
 
 - **🚗 Vehicle Inventory System** – A full CRUD web app for managing vehicle data in a dealership setting.  
@@ -44,7 +42,6 @@ Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho
 ## 📊 GitHub Language Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&langs_count=5&hide=ejs&theme=tokyonight)
-
 
 ## 🤝 Let's Connect!
 
