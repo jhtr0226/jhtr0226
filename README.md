@@ -41,7 +41,7 @@ Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho
 
 ## 📊 GitHub Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&langs_count=5&hide=ejs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&langs_count=5&hide=ejs&theme=tokyonight&cache_seconds=1800)
 
 ## 🤝 Let's Connect!
 
