@@ -1,17 +1,17 @@
 
 # Johann Tellez
 
-Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho, currently learning how to build real-world solutions with code.
+Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, currently learning how to build real-world solutions with code.
 
-## 🚀 About Me
+## About Me
 
-- 🎓 I'm studying Software Development at BYU–Idaho (Expected graduation: 2027)
-- 🔧 I enjoy backend development, APIs, authentication systems, and database design
-- 🌐 I’m currently working with: JavaScript, Node.js, C#, MySQL, HTML, CSS
-- 📚 I'm learning more about Express.js, OAuth, and PostgreSQL
-- 🤝 I'm actively seeking internship or freelance opportunities in backend development
+- I'm studying Software Development at BYU–Idaho (Expected graduation: 2027)
+- I enjoy backend development, APIs, authentication systems, and database design
+- I’m currently working with: JavaScript, Node.js, C#, MySQL, HTML, CSS
+- I'm learning more about Express.js, OAuth, and PostgreSQL
+- I'm actively seeking internship or freelance opportunities in backend development
 
-## 💻 Languages & Technologies
+## Languages & Technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -25,7 +25,7 @@ Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </div>
 
-## 📂 Featured Projects
+## Featured Projects
 
 - **🍽️ [Food Finder](https://jhtr0226.github.io/wdd330/food-finder/index.html)** – A responsive web app that helps users find food options using search and filtering. *(HTML, CSS, JavaScript)*
 
@@ -43,7 +43,7 @@ Hello! 👋 I'm Johann, a passionate Software Development student at BYU–Idaho
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&langs_count=5&hide=ejs&theme=tokyonight&cache_seconds=1800)
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/johann-tellez-509723233)
 - johanntellez2001@gmail.com
