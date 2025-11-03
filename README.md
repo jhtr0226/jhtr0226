@@ -39,7 +39,7 @@ Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, cur
   **My Role:** Developed login/logout flow and protected route middleware.  
   **Note:** Deployment and source code available upon request.
 
-## 📊 GitHub Language Stats
+## GitHub Language Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&langs_count=5&hide=ejs&theme=tokyonight&cache_seconds=1800)
 
