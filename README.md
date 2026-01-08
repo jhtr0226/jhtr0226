@@ -34,14 +34,16 @@ Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, cur
   **My Role:** Backend logic, form validation, and flash messaging implementation.  
   **Note:** Deployment and source code available upon request.
 
-- **🔐 AuthHub Login System** – A secure login/authentication system built as a team effort.  
-  *(Express, MongoDB, JWT, OAuth – Team Project, Deployed on Render)*  
-  **My Role:** Developed login/logout flow and protected route middleware.  
+- **🏋️ [Gym Management System](https://gym-management-proj-e19b2754c8b8.herokuapp.com/)**  
+  A gym management web application with authentication, role-based access, and database-driven features.  
+  *(Django, PostgreSQL, Authentication – Team Project, Deployed on Heroku)*  
+  **My Role:** Backend development, database integration, environment configuration, and deployment support.
   **Note:** Deployment and source code available upon request.
 
 ## GitHub Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&langs_count=5&hide=ejs&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&theme=tokyonight)
+
 
 ## Let's Connect!
 
