@@ -40,9 +40,9 @@ Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, cur
   **My Role:** Backend development, database integration, environment configuration, and deployment support.
   **Note:** Deployment and source code available upon request.
 
-## GitHub Language Stats
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&theme=tokyonight)
+![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhtr0226&show_icons=true&theme=tokyonight)
 
 
 ## Let's Connect!
