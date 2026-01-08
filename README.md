@@ -34,15 +34,15 @@ Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, cur
   **My Role:** Backend logic, form validation, and flash messaging implementation.  
   **Note:** Deployment and source code available upon request.
 
-- **🏋️ [Gym Management System](https://gym-management-proj-e19b2754c8b8.herokuapp.com/)**  
+- **🏋️ Gym Management System**  
   A gym management web application with authentication, role-based access, and database-driven features.  
-  *(Django, PostgreSQL, Authentication – Team Project, Deployed on Heroku)*  
-  **My Role:** Backend development, database integration, environment configuration, and deployment support.
-  **Note:** Deployment and source code available upon request.
+  *(Django, PostgreSQL, Authentication – Team Project)*  
+  **My Role:** Backend development, database integration, environment configuration, and deployment support.  
+  **Demo:** Live deployment available upon request.
 
 ## GitHub Stats
 
-![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhtr0226&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&theme=tokyonight&v=2)
 
 
 ## Let's Connect!
