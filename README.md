@@ -41,7 +41,7 @@ Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, cur
   **Demo:** Live deployment available upon request.
 
 ##Languages I use the most
-![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical)
+![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&langs_count=8&theme=radical)
 
 ## Let's Connect!
 
