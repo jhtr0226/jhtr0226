@@ -40,6 +40,9 @@ Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, cur
   **My Role:** Backend development, database integration, environment configuration, and deployment support.  
   **Demo:** Live deployment available upon request.
 
+##Languages I use the most
+![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical)
+
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/johann-tellez-509723233)
