@@ -42,8 +42,6 @@ Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, cur
 
 ##Languages I use the most
 ![Languages](https://github-readme-stats-jet-eight-90.vercel.app/api/top-langs/?username=jhtr0226&langs_count=20&layout=compact&theme=radical)
-![Languages](https://github-readme-stats-jet-eight-90.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&theme=radical)
-![Languages](https://github-readme-stats-jet-eight-90.vercel.app/api/top-langs/?username=jhtr0226&layout=compact&theme=radical)
 
 ## Let's Connect!
 https://github-readme-stats-jet-eight-90.vercel.app
