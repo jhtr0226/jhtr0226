@@ -40,7 +40,8 @@ Hello! I'm Johann, a passionate Software Development student at BYU–Idaho, cur
   **My Role:** Backend development, database integration, environment configuration, and deployment support.  
   **Demo:** Live deployment available upon request.
 
-##Languages I use the most
+##Languages I use the most:
+
 ![Languages](https://github-readme-stats-jet-eight-90.vercel.app/api/top-langs/?username=jhtr0226&langs_count=20&layout=compact&theme=radical)
 
 ## Let's Connect!
